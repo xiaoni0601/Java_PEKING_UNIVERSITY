@@ -1,0 +1,2 @@
+public class AppGraphInOut {
+}
